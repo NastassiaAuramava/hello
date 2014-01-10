@@ -1,3 +1,3 @@
 hello
 =====
-read me defore do smth
+read me before do smth
